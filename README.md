@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá! 👋
 
+
+Sou Analista de Sistemas há 13 anos, atualmente trabalhando com NodeJs e React. Minha bagagem anterior começou com ASP Clássico, depois ASP.NET C# por alguns anos!
+
+:earth_americas: Atualmente, ajudando a mover o mundo na @minutrade :rocket:
+
+📫 Linkedin: https://www.linkedin.com/in/marcusmaggi
 <!--
 **mpmaggi/mpmaggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
